@@ -46,8 +46,8 @@ public class LoginPageTest extends BaseTest {
 	}
 	
 	@Description("checking login Page forgot password link exist Test")
-	@Severity(SeverityLevel.CRITICAL)
-	@Owner("John Lark")
+	@Severity(SeverityLevel.BLOCKER)
+	@Owner("John Doe")
 	@Link(url="https://www.opencart.com")
 	@Feature("Login Page Forgot Link Feature")
 	@Test(priority = 3)
