@@ -9,4 +9,8 @@ public class Login {
 		System.out.println("main -- Prakhar");
 	}
 	
+	public void doLogin() {
+		System.out.println("Prakhar -- Login");
+	}
+	
 }
