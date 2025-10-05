@@ -8,5 +8,10 @@ public class Login {
 	public void main() {
 		System.out.println("main -- Prakhar");
 	}
+
+	public void doLogin() {
+		System.out.println("Joe -- Login");
+		String un = "admin";
+	}
 	
 }
